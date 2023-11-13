@@ -41,7 +41,7 @@ where the raw data are saved.
 Python 3.8.18 | packaged by conda-forge | (default, Oct 10 2023, 15:37:54) [MSC v.1929 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
->>> import import merfish_python_pons as pons
+>>> import merfish_python_pons as pons
 >>> import os
 >>> 
 >>> root = os.path.join('path/to/folder/with/merfish/data')
