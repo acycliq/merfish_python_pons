@@ -1,0 +1,9 @@
+name: merfish_python_pons
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - python=3.8
+  - pandas
+  - scikit-image
+  - numba

@@ -1,0 +1,6 @@
+.idea
+/build/
+/runMe.py
+/cell_by_gene/__pycache__
+/merfish_pons.egg-info/
+/merfish_python_pons/paper_code.zip
