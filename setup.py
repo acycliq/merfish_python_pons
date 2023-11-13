@@ -1,8 +1,3 @@
-# Run this by calling
-#     python setup.py sdist bdist_wheel # old way to build a package
-#     or
-#     python -m build                   # new way to build a package
-
 import os
 from setuptools import setup, find_packages
 
